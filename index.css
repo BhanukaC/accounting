@@ -12,3 +12,24 @@ body {
     padding: 10px 0;
     color: aliceblue;
 }
+
+form {
+    background-color: antiquewhite;
+    border: 2px black solid;
+    border-radius: 1rem;
+    display: inline-block;
+    padding: 3rem 10rem;
+}
+
+.error {
+    background-color: red;
+    border: 2px black solid;
+    display: block;
+    color: aliceblue;
+    margin-top: 1rem;
+    padding: 0.5rem;
+}
+
+.hide {
+    display: none;
+}
