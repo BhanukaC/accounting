@@ -41,6 +41,7 @@ if(isset($_POST['submit'])) {
 <html lang="en">
 
 <head>
+     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
