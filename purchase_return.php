@@ -55,23 +55,23 @@ if(isset($_POST['submit'])) {
 </head>
 
 <body>
-    <nav class="navbar navbar-dark  navbar-expand-lg bg-dark">
-        <a class="navbar-brand" href="index.html"><img src="logo.jpeg" alt="" width="50px" style="margin-left: 10px;" href="index.html"></a>
+   <nav class="navbar navbar-dark  navbar-expand-lg bg-dark">
+        <a class="navbar-brand" href="index.html"><img src="logo.jpeg" alt="" width="50px" style="margin-left: 10px;"></a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-        </button>
+			<span class="navbar-toggler-icon"></span>
+		</button>
         <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
             <ul class="navbar-nav ml-auto">
-                 <li class="nav-item">
+                <li class="nav-item">
                     <a class="nav-link" href="index.html">Home</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#footer">About</a>
+                    <a class="nav-link" href="about_us.html">About Us</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#pricing">Team</a>
+                    <a class="nav-link" href="team.html">Team</a>
                 </li>
-                
+
             </ul>
         </div>
     </nav>
